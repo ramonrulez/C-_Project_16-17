@@ -1,0 +1,9 @@
+// class prototypes
+class Reservation ;
+class Room ;
+class RoomA ;
+class RoomB ;
+class RoomC ;
+class RoomD ;
+class RoomE ;
+class Hotel ;
